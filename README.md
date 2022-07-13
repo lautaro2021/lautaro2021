@@ -1,5 +1,8 @@
 ### Hi everyone!👋 I'm Lautaro Arnay 👨‍💻
 
+![1651864276939](https://user-images.githubusercontent.com/100036966/178767839-a6f4b6df-c294-4d72-8045-7e482ea998d4.jpg)
+
+
 ```js
 const lautaro = {
   pronouns: "he" | "him",
@@ -15,8 +18,17 @@ Find me 🌎 in:
 - [Blog]()
 - [Intragram](https://www.instagram.com/laauarnay/)
 
+### Projects 🚀
 ## lautaro.projects[0]
+- [MyPc](https://pi-dogs-brown.vercel.app/)
 
+<p align='center'>
+  <img width=96% src='https://user-images.githubusercontent.com/100036966/178781365-9d50a563-0e25-45d3-9a95-cfad96020331.jpeg'  alt="DOGS HOME" />
+  <img width=48% src='./img/menuHome.png'  alt="MENU'S HOME" />
+  <img width=48% src='./img/menuDetail.png'  alt="MENU'S DETAIL" />
+</p>
+
+![WhatsApp Image 2022-07-13 at 12 46 59 PM](https://user-images.githubusercontent.com/100036966/178781365-9d50a563-0e25-45d3-9a95-cfad96020331.jpeg) ![WhatsApp Image 2022-07-13 at 12 47 14 PM](https://user-images.githubusercontent.com/100036966/178781477-5be8a438-07e0-4fb6-8ac1-dcd6bdb1a7b9.jpeg)
 
 <!--
 **lautaro2021/lautaro2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
