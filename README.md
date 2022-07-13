@@ -9,7 +9,7 @@ const lautaro = {
   code: [Javascript, Typescript, HTML, CSS, Python, Java, C++],
   tools: [React, Redux, Node, Jest, SQL, Sequelize, Postgre, Firebase, Insomnia, Postman, Git, Bootstrap],
   mentor: 'soyHenry',
-  projects: ['MyPC Ecommerce', 'PI Dogs', 'Search Engine Image', 'Weather App','HTML CSS JS Home Page Responsive','Blender'],
+  projects: ['MyPC Ecommerce', 'PI Dogs', 'Search Engine Image', 'Weather App','HTML CSS JS Home Page Responsive','Blender', 'Heroku', 'Vercel'],
   inProgress: [React Native, NextJs, MongoDB ]
 }
 ```
