@@ -90,3 +90,59 @@ Permite utilizar filtrados por mayor o menor peso, nombre, tipo de raza, tipo de
   <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657819405/REPO/WhatsApp_Image_2022-07-13_at_12.47.44_PM_joxs2y.jpg'  alt="PET HOUSE DETAIL" />
   <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657819405/REPO/WhatsApp_Image_2022-07-13_at_12.48.04_PM_wuaitl.jpg'  alt="CREATION FORM" />
 </p>
+
+## 🌠 lautaro.projects[2] - Image Search Engine
+
+## 🚀 Main Features:
+<a href="https://my-app-one-pied.vercel.app/" target="_blank" rel="noreferrer">
+  Image Search Engine
+</a>
+ is a SPA (Single Page Application) which consumes information from an external API (pixabay) and displays a series of images on the screen based on the user's search.
+<br/>
+It contains paging and the possibility to see how many views the image has, its likes and the option to see the image in real size and real resolution.
+<br/>
+
+
+## 🚀 Caracterísitcas Principales:
+<a href="https://my-app-one-pied.vercel.app/" target="_blank" rel="noreferrer">
+  Image Search Engine
+</a>
+ es un SPA (Single Page Application) la cual consume información de una API externa (pixabay) y muestra en pantalla una serie de imagenes en base a la busqueda del usuario.
+<br/>
+  Contiene paginado y la posibilidad de ver cuantas vistas tiene la imagen, sus me gusta y un paginado.
+<br/>
+  Se puede buscar tanto en español como en ingles
+  
+  ## 👨‍💻 Tecnologies employed:
+ - Frontend: JS, ReactJS, HTML, Bootstrap.
+
+<br/>
+<img src='https://res.cloudinary.com/mypc/image/upload/v1657821289/REPO/WhatsApp_Image_2022-07-14_at_2.54.59_PM_xsspzi.jpg'  alt="Image search app" />
+<img src='https://res.cloudinary.com/mypc/image/upload/v1657821281/REPO/WhatsApp_Image_2022-07-14_at_2.54.33_PM_zlwxro.jpg'  alt="Image search app" />
+<br/>
+
+## 🌠 lautaro.projects[3] - Weather App
+
+## 🚀 Main Features:
+Weather App it's a SPA (Single Page Application) made under the information of the external API
+OpenWeatherApp and displays the weather of the chosen city on the screen using the search bar.
+<br/>
+ It was my first SPA made with React 
+
+## 🚀 Caracterísitcas Principales:
+Weather App es una SPA (Single Page Aplication) realizada bajo la informacion de la API externa
+OpenWeatherApp y muestra en pantalla el clima de la ciudad elegida mediante
+a barra de busqueda.
+<br/>
+ Fue mi primer SPA realizada con React 
+
+## 👨‍💻 Tecnologies employed:
+- Frontend: JS, ReactJS, HTML, CSS.
+
+<br/>
+<p align='center'>
+<img width=96% src='https://res.cloudinary.com/mypc/image/upload/v1657830204/REPO/WhatsApp_Image_2022-07-14_at_5.23.18_PM_irvjbl.jpg'  alt="Weather App" />
+<img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657830200/REPO/WhatsApp_Image_2022-07-14_at_5.23.32_PM_bgr42n.jpg'  alt="Weather App" />
+<img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657830199/REPO/WhatsApp_Image_2022-07-14_at_5.22.44_PM_bmdpyu.jpg'  alt="Weather App" />
+</p>
+<br/>
