@@ -2,7 +2,6 @@
 
 ![1651864276939](https://user-images.githubusercontent.com/100036966/178767839-a6f4b6df-c294-4d72-8045-7e482ea998d4.jpg)
 
-
 ```js
 const lautaro = {
   pronouns: "he" | "him",
@@ -146,3 +145,6 @@ a barra de busqueda.
 <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657830199/REPO/WhatsApp_Image_2022-07-14_at_5.22.44_PM_bmdpyu.jpg'  alt="Weather App" />
 </p>
 <br/>
+
+# GitHub Stats
+[![Lautaro](https://github-readme-stats.vercel.app/api?username=lautaro2021&show_icons=true)]
