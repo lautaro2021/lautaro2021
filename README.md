@@ -18,11 +18,9 @@ Find me 🌎 in:
 - [Blog]()
 - [Intragram](https://www.instagram.com/laauarnay/)
 
-## Principal Projects 🚀
+# Main Projects 🚀
 
-## lautaro.projects[0] - MyPc Ecommerce
-
-- Deploy: [MyPc](https://mypc.vercel.app/)
+## 🌠 lautaro.projects[0] - MyPc Ecommerce
 
 ## 🚀 Main Features:
 <a href="https://mypc.vercel.app" target="_blank" rel="noreferrer">
@@ -57,4 +55,38 @@ También proveemos una cuenta Admin, el cual cuenta con un panel para manejar y 
   <img width=96.5% src='https://res.cloudinary.com/mypc/image/upload/v1657817441/REPO/ProdDetails_ychmd2.png'  alt="Product Details" />
   <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657817440/REPO/Stats_swgx2x.png'  alt="Stats seller" />
   <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657817440/REPO/AdminPanel_aqtijd.png'  alt="Admin Panel" />
+</p>
+
+
+## 🌠 lautaro.projects[1] - PI DOGS
+
+## 🚀 Main Features:
+<a href="https://pi-dogs-brown.vercel.app/" target="_blank" rel="noreferrer">
+  Pet House
+</a>
+is an app in which you can see different varieties of dogs, with their respective information (weight, height, years of life) and their temperaments.
+<br/>
+It allows filtering by greater or lesser weight, name, type of breed, type of temperament; as well as a search bar to search for them by name. In addition, we can create our own breed of dog with all your information.
+
+## 🚀 Caracterísitcas Principales:
+<a href="https://pi-dogs-brown.vercel.app/" target="_blank" rel="noreferrer">
+  Pet House
+</a>
+es una app en la cual podes ver diferentes variedades de perros, con sus respectiva información (peso, altura, años de vida) y sus temperamentos.
+<br/>
+Permite utilizar filtrados por mayor o menor peso, nombre, tipo de raza, tipo de temperamento; asi como tambien una barra de busqueda para buscarlos por nombre. Ademas, podemos crear nuestra propia raza de perro con toda su informacion.
+<br/>
+
+## 👨‍💻 Tecnologies employed:
+- Frontend: JS, React JS, Redux, React-router-DOM, Redux Thunk, HTML, CSS.
+- Backend: Node JS, Express JS, Sequelize, Postgres, Axios.
+- DataBase: SQL.
+- Deploy: Vercel, Heroku.
+
+<br/>
+<p align='center'>
+  <img width=96% src='https://res.cloudinary.com/mypc/image/upload/v1657819405/REPO/WhatsApp_Image_2022-07-13_at_12.46.59_PM_pf7kgp.jpg'  alt="PET HOUSE HOME" />
+  <img width=96% src='https://res.cloudinary.com/mypc/image/upload/v1657819405/REPO/WhatsApp_Image_2022-07-13_at_12.47.14_PM_ffxghr.jpg'  alt="PET HOUSE HOME DARK MODE" />
+  <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657819405/REPO/WhatsApp_Image_2022-07-13_at_12.47.44_PM_joxs2y.jpg'  alt="PET HOUSE DETAIL" />
+  <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657819405/REPO/WhatsApp_Image_2022-07-13_at_12.48.04_PM_wuaitl.jpg'  alt="CREATION FORM" />
 </p>
