@@ -18,29 +18,43 @@ Find me 🌎 in:
 - [Blog]()
 - [Intragram](https://www.instagram.com/laauarnay/)
 
-### Projects 🚀
-## lautaro.projects[0]
-- [MyPc](https://pi-dogs-brown.vercel.app/)
+## Principal Projects 🚀
 
+## lautaro.projects[0] - MyPc Ecommerce
+
+- Deploy: [MyPc](https://mypc.vercel.app/)
+
+## 🚀 Main Features:
+<a href="https://mypc.vercel.app" target="_blank" rel="noreferrer">
+  MyPC
+</a>
+is a MarketPlace where you can view, buy and sell PC components. As a common user you can see their details, ask questions before buying, have a list of favorites and a cart. As a seller, you have a statistics section on your account, sales and publications for better monitoring of them. A chat between buyer and seller to coordinate details, accompanied by notifications within the App.<br/>
+We also provide an Admin account, which has a panel to manage and track accounts, products, vendors and more, with page statistics in general.
+<br/>
+<br/>
+
+## 🚀 Caracterísitcas Principales:
+<a href="https://mypc.vercel.app" target="_blank" rel="noreferrer">
+  MyPC
+</a>
+es un MarketPlace en el cual puedes ver, comprar y vender componentes de PC. Como usuario común puedes ver los detalles de los mismos, hacer preguntas antes de comprar, tener una lista de favoritos y un carrito. Como vendedor tiene un apartado de estadísitcas sobre tu cuenta, ventas y publicaciones para un mejor seguimiento de las mismas. Un chat entre comprador y vendedor para coordinar detalles, acompañado de notificaciones dentro de la App.<br/>
+También proveemos una cuenta Admin, el cual cuenta con un panel para manejar y tener seguimiento de las cuentas, productos, vendedores y demás, con estadísticas de la página en general.
+<br/>
+<br/>
+
+## 👨‍💻 Tecnologies employed:
+- Frontend: TypeScript, React TS, Redux, React-router-DOM, Redux Thunk, HTML, CSS.
+- Backend: TypeScript, Node JS, Express, Sequelize, Firebase, Postgres, Axios.
+- Database: SQL.
+- Deploy: Vercel, Heroku.
+- Test: Jest.
+
+<br/>
 <p align='center'>
-  <img width=96% src='https://user-images.githubusercontent.com/100036966/178781365-9d50a563-0e25-45d3-9a95-cfad96020331.jpeg'  alt="DOGS HOME" />
-  <img width=48% src='./img/menuHome.png'  alt="MENU'S HOME" />
-  <img width=48% src='./img/menuDetail.png'  alt="MENU'S DETAIL" />
+  <img width=96.5% src='https://res.cloudinary.com/mypc/image/upload/v1657817441/REPO/Home_wrlxvf.png'  alt="HOME" />
+  <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657817441/REPO/HomeUltVist_lirll2.png'  alt="Home Visited" />
+  <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657817441/REPO/Prods_a8m9pu.png'  alt="Home Products" />
+  <img width=96.5% src='https://res.cloudinary.com/mypc/image/upload/v1657817441/REPO/ProdDetails_ychmd2.png'  alt="Product Details" />
+  <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657817440/REPO/Stats_swgx2x.png'  alt="Stats seller" />
+  <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657817440/REPO/AdminPanel_aqtijd.png'  alt="Admin Panel" />
 </p>
-
-![WhatsApp Image 2022-07-13 at 12 46 59 PM](https://user-images.githubusercontent.com/100036966/178781365-9d50a563-0e25-45d3-9a95-cfad96020331.jpeg) ![WhatsApp Image 2022-07-13 at 12 47 14 PM](https://user-images.githubusercontent.com/100036966/178781477-5be8a438-07e0-4fb6-8ac1-dcd6bdb1a7b9.jpeg)
-
-<!--
-**lautaro2021/lautaro2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
