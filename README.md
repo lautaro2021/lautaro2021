@@ -13,7 +13,7 @@ const lautaro = {
 }
 ```
 Find me 🌎 in:
-- [Linkedin](https://www.linkedin.com/in/lautaro-agustin-arnay-2348421b7/)
+- [Linkedin](https://www.linkedin.com/in/lautaroagustinarnay/)
 - [Blog]()
 - [Intragram](https://www.instagram.com/laauarnay/)
 
