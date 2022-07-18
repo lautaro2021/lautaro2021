@@ -14,7 +14,7 @@ const lautaro = {
 ```
 Find me 🌎 in:
 - [Linkedin](https://www.linkedin.com/in/lautaroagustinarnay/)
-- [Blog]()
+- [Blog](https://portfolio-six-lemon-70.vercel.app/)
 - [Intragram](https://www.instagram.com/laauarnay/)
 
 # Main Projects 🚀
