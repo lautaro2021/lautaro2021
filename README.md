@@ -8,7 +8,7 @@ const lautaro = {
   code: [Javascript, Typescript, HTML, CSS, Python, C++],
   tools: [React, Redux, Node, Jest, SQL, Express, Sequelize, Postgre, Firebase, Insomnia, Postman, Git, Bootstrap, Heroku, Vercel],
   mentor: 'soyHenry',
-  projects: ['MyPC Ecommerce', 'PI Dogs', 'Search Engine Image', 'Weather App','HTML CSS JS Home Page Responsive','Blender'],
+  projects: ['MyPC Ecommerce', 'PI Dogs', 'Search Engine Image', 'Weather App','Portfolio', 'HTML CSS JS Home Page Responsive','Blender'],
   inProgress: [React Native, NextJs, MongoDB ]
 }
 ```
@@ -144,6 +144,31 @@ a barra de busqueda.
 <img width=96% src='https://res.cloudinary.com/mypc/image/upload/v1657830204/REPO/WhatsApp_Image_2022-07-14_at_5.23.18_PM_irvjbl.jpg'  alt="Weather App" />
 <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657830200/REPO/WhatsApp_Image_2022-07-14_at_5.23.32_PM_bgr42n.jpg'  alt="Weather App" />
 <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657830199/REPO/WhatsApp_Image_2022-07-14_at_5.22.44_PM_bmdpyu.jpg'  alt="Weather App" />
+</p>
+<br/>
+
+## 🌠 lautaro.projects[4] - Portfolio
+
+- [PORTFOLIO](https://portfolio-six-lemon-70.vercel.app/)
+
+## 🚀 Main Features:
+Simply Portfolio maded with React. <br/>
+Prioritize visual impact over functionality
+
+## 🚀 Caracterísitcas Principales:
+Un portafolio simple realizado con React. <br/>
+Decidi priorizar el impacto visual por sobre la funcionalidad
+
+
+## 👨‍💻 Tecnologies employed:
+- Frontend: JS, ReactJS, HTML, CSS.
+
+<br/>
+<p align='center'>
+<img width=96% src='https://res.cloudinary.com/mypc/image/upload/v1658251969/REPO/WhatsApp_Image_2022-07-19_at_2.32.12_PM_ljwz4s.jpg'  alt="Portfolio" />
+<img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1658251968/REPO/WhatsApp_Image_2022-07-19_at_2.32.00_PM_kbry09.jpg'  alt="Portfolio" />
+<img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1658251969/REPO/WhatsApp_Image_2022-07-19_at_2.31.46_PM_fo58ch.jpg'  alt="Portfolio" />
+<img width=96% src='https://res.cloudinary.com/mypc/image/upload/v1658251968/REPO/WhatsApp_Image_2022-07-19_at_2.31.32_PM_lpwv3b.jpg'  alt="Portfolio" />
 </p>
 <br/>
 
