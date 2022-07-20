@@ -16,7 +16,7 @@ Find me 🌎 in:
 - [Linkedin](https://www.linkedin.com/in/lautaroagustinarnay/)
 - [Blog](https://portfolio-six-lemon-70.vercel.app/)
 - [Intragram](https://www.instagram.com/laauarnay/)
-- [CV](https://drive.google.com/file/d/13GHh0V1vAY62dhljL2f657qmhsMh1Ju4/view?usp=sharing)
+- [CV](https://drive.google.com/file/d/1bkCZfJ81IJc3QOUc1NQljlSeBYn-alkJ/view?usp=sharing)
 
 # Main Projects 🚀
 
