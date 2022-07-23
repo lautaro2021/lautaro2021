@@ -1,6 +1,6 @@
 ## Hi everyone!👋 I'm Lautaro Arnay, Full Stack Developer from Argentina👨‍💻 
 
-![1651864276939](https://user-images.githubusercontent.com/100036966/178767839-a6f4b6df-c294-4d72-8045-7e482ea998d4.jpg)
+![1651864276939](https://res.cloudinary.com/mypc/image/upload/v1658615161/REPO/7167570_v1tlmp.webp)
 
 ```js
 const lautaro = {
