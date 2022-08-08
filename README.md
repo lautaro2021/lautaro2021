@@ -8,7 +8,7 @@ const lautaro = {
   code: [Javascript, Typescript, HTML, CSS, Python, C++],
   tools: [React, Redux, Node, Jest, SQL, Express, Sequelize, Postgre, Firebase, Insomnia, Postman, Git, Bootstrap, Heroku, Vercel],
   mentor: 'soyHenry',
-  projects: ['MyPC Ecommerce', 'PI Dogs', 'Search Engine Image', 'Weather App','Portfolio', 'HTML CSS JS Home Page Responsive','Blender'],
+  projects: ['LyL Automotores', 'MyPC Ecommerce', 'PI Dogs', 'Search Engine Image', 'Weather App','Portfolio', 'HTML CSS JS Home Page Responsive','Blender'],
   inProgress: [React Native, NextJs, MongoDB ]
 }
 ```
@@ -20,7 +20,42 @@ Find me 🌎 in:
 
 # Main Projects 🚀
 
-## 🌠 lautaro.projects[0] - MyPc Ecommerce
+## 🌠 lautaro.projects[0] - LyL Automotores
+
+## 🚀 Main Features:
+<a href="https://lylautomotores.com.ar" target="_blank" rel="noreferrer">
+  LyL Automotores
+</a>
+It is a site made freelance for a car dealership located in Argentina, where the main focus was to convey the exclusivity and elegance that the brand tries to reflect on its customers.
+It has a Home where the most exclusive cars can be seen, as well as the most relevant brands, a Vehicles section where all the cars are shown, a search engine, a Details section for each of the cars; as well as a Contact section and an About Us section with some relevant information.
+<br/>
+<br/>
+
+## 🚀 Caracterísitcas Principales:
+<a href="https://lylautomotores.com.ar" target="_blank" rel="noreferrer">
+  LyL Automotores
+</a>
+Es un sitio realizado de manera freelance para una consecionaria de automoviles ubicada en Argentina, en donde el principal enfoque era el de transmitir la exclusividad y elegicancia que la marca intenta reflejar en sus clientes.
+Cuenta con un Home donde pueden verse los autos mas exclusivos, asi como tambien las marcas mas relevantes, una secciones Vehiculos donde se muestran todos los automoviles, un buscador, una seccion Detalles de cada uno de los autos; asi como tambien una seccion de Contacto y otra de Sobre Nosotros con un poco de informacion relevante.
+<br/>
+<br/>
+
+## 👨‍💻 Tecnologies employed:
+- Frontend: TypeScript, React TS, Redux, React-router-DOM, Redux Thunk, HTML, CSS.
+- Backend: TypeScript, Node JS, Express, Sequelize.
+- Database: SQL.
+- Deploy: Vercel, Heroku.
+
+<br/>
+<p align='center'>
+  <img width=96.5% src='https://res.cloudinary.com/mypc/image/upload/v1659968864/REPO/1_lwtnxu.png'  alt="HOME" />
+  <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1659968868/REPO/2_xk1tlf.png'  alt="Home Visited" />
+  <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1659968874/REPO/3_muavwq.png'  alt="Home Products" />
+  <img width=96.5% src='https://res.cloudinary.com/mypc/image/upload/v1659968876/REPO/4_rqpk1i.png'  alt="Product Details" />
+  <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1659968880/REPO/5_dcg7ev.png'  alt="Stats seller" />
+</p>
+
+## 🌠 lautaro.projects[1] - MyPc Ecommerce
 
 ## 🚀 Main Features:
 <a href="https://mypc.vercel.app" target="_blank" rel="noreferrer">
@@ -58,7 +93,7 @@ También proveemos una cuenta Admin, el cual cuenta con un panel para manejar y 
 </p>
 
 
-## 🌠 lautaro.projects[1] - PI DOGS
+## 🌠 lautaro.projects[2] - PI DOGS
 
 ## 🚀 Main Features:
 <a href="https://pi-dogs-brown.vercel.app/" target="_blank" rel="noreferrer">
@@ -91,7 +126,7 @@ Permite utilizar filtrados por mayor o menor peso, nombre, tipo de raza, tipo de
   <img width=48% src='https://res.cloudinary.com/mypc/image/upload/v1657819405/REPO/WhatsApp_Image_2022-07-13_at_12.48.04_PM_wuaitl.jpg'  alt="CREATION FORM" />
 </p>
 
-## 🌠 lautaro.projects[2] - Image Search Engine
+## 🌠 lautaro.projects[3] - Image Search Engine
 
 ## 🚀 Main Features:
 <a href="https://my-app-one-pied.vercel.app/" target="_blank" rel="noreferrer">
@@ -121,7 +156,7 @@ It contains paging and the possibility to see how many views the image has, its 
 <img src='https://res.cloudinary.com/mypc/image/upload/v1657821281/REPO/WhatsApp_Image_2022-07-14_at_2.54.33_PM_zlwxro.jpg'  alt="Image search app" />
 <br/>
 
-## 🌠 lautaro.projects[3] - Weather App
+## 🌠 lautaro.projects[4] - Weather App
 
 ## 🚀 Main Features:
 Weather App it's a SPA (Single Page Application) made under the information of the external API
@@ -147,7 +182,7 @@ a barra de busqueda.
 </p>
 <br/>
 
-## 🌠 lautaro.projects[4] - Portfolio
+## 🌠 lautaro.projects[5] - Portfolio
 
 - [PORTFOLIO](https://portfolio-six-lemon-70.vercel.app/)
 
